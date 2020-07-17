@@ -1,0 +1,17 @@
+body {
+ background-image: url("../img/food.png");
+ 
+}
+
+.logo{
+
+	max-width: 45px;
+	max-height: 55px;
+
+}
+
+.navbar-nav{
+
+	padding-left: 1050px;
+}
+
